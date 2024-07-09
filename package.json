@@ -1,0 +1,11 @@
+{
+  "name": "json-server",
+  "private": true,
+  "scripts": {
+    "start": "json-server db.json"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  }
+}
+
